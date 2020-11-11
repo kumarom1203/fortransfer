@@ -1,0 +1,4 @@
+D:\Webet333\Code\Webet333.notify\obj\Release\netcoreapp2.1\Webet333.notify.csprojAssemblyReference.cache
+D:\Webet333\Code\Webet333.notify\obj\Release\netcoreapp2.1\Webet333.notify.AssemblyInfoInputs.cache
+D:\Webet333\Code\Webet333.notify\obj\Release\netcoreapp2.1\Webet333.notify.AssemblyInfo.cs
+D:\Webet333\Code\Webet333.notify\obj\Release\netcoreapp2.1\Webet333.notify.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+D:\Webet333\Code\Webet333.logs.interfaces\bin\Stag\netcoreapp2.1\Webet333.logs.interfaces.deps.json
+D:\Webet333\Code\Webet333.logs.interfaces\bin\Stag\netcoreapp2.1\Webet333.logs.interfaces.dll
+D:\Webet333\Code\Webet333.logs.interfaces\bin\Stag\netcoreapp2.1\Webet333.logs.interfaces.pdb
+D:\Webet333\Code\Webet333.logs.interfaces\obj\Stag\netcoreapp2.1\Webet333.logs.interfaces.csprojAssemblyReference.cache
+D:\Webet333\Code\Webet333.logs.interfaces\obj\Stag\netcoreapp2.1\Webet333.logs.interfaces.AssemblyInfoInputs.cache
+D:\Webet333\Code\Webet333.logs.interfaces\obj\Stag\netcoreapp2.1\Webet333.logs.interfaces.AssemblyInfo.cs
+D:\Webet333\Code\Webet333.logs.interfaces\obj\Stag\netcoreapp2.1\Webet333.logs.interfaces.csproj.CoreCompileInputs.cache
+D:\Webet333\Code\Webet333.logs.interfaces\obj\Stag\netcoreapp2.1\Webet333.logs.interfaces.dll
+D:\Webet333\Code\Webet333.logs.interfaces\obj\Stag\netcoreapp2.1\Webet333.logs.interfaces.pdb

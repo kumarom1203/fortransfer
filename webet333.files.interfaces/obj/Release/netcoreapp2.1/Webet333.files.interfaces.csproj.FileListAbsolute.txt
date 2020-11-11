@@ -1,0 +1,9 @@
+D:\Webet333\Code\Webet333.files.interfaces\bin\Release\netcoreapp2.1\Webet333.files.interfaces.deps.json
+D:\Webet333\Code\Webet333.files.interfaces\bin\Release\netcoreapp2.1\Webet333.files.interfaces.dll
+D:\Webet333\Code\Webet333.files.interfaces\bin\Release\netcoreapp2.1\Webet333.files.interfaces.pdb
+D:\Webet333\Code\Webet333.files.interfaces\obj\Release\netcoreapp2.1\Webet333.files.interfaces.csprojAssemblyReference.cache
+D:\Webet333\Code\Webet333.files.interfaces\obj\Release\netcoreapp2.1\Webet333.files.interfaces.AssemblyInfoInputs.cache
+D:\Webet333\Code\Webet333.files.interfaces\obj\Release\netcoreapp2.1\Webet333.files.interfaces.AssemblyInfo.cs
+D:\Webet333\Code\Webet333.files.interfaces\obj\Release\netcoreapp2.1\Webet333.files.interfaces.csproj.CoreCompileInputs.cache
+D:\Webet333\Code\Webet333.files.interfaces\obj\Release\netcoreapp2.1\Webet333.files.interfaces.dll
+D:\Webet333\Code\Webet333.files.interfaces\obj\Release\netcoreapp2.1\Webet333.files.interfaces.pdb

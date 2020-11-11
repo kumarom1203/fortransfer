@@ -1,0 +1,14 @@
+D:\Webet333\Code\Webet333.notify.interfaces\bin\Stag\netcoreapp2.1\Webet333.notify.interfaces.deps.json
+D:\Webet333\Code\Webet333.notify.interfaces\bin\Stag\netcoreapp2.1\Webet333.notify.interfaces.dll
+D:\Webet333\Code\Webet333.notify.interfaces\bin\Stag\netcoreapp2.1\Webet333.notify.interfaces.pdb
+D:\Webet333\Code\Webet333.notify.interfaces\bin\Stag\netcoreapp2.1\Webet333.models.dll
+D:\Webet333\Code\Webet333.notify.interfaces\bin\Stag\netcoreapp2.1\Webet333.security.dll
+D:\Webet333\Code\Webet333.notify.interfaces\bin\Stag\netcoreapp2.1\Webet333.models.pdb
+D:\Webet333\Code\Webet333.notify.interfaces\bin\Stag\netcoreapp2.1\Webet333.security.pdb
+D:\Webet333\Code\Webet333.notify.interfaces\obj\Stag\netcoreapp2.1\Webet333.notify.interfaces.csprojAssemblyReference.cache
+D:\Webet333\Code\Webet333.notify.interfaces\obj\Stag\netcoreapp2.1\Webet333.notify.interfaces.AssemblyInfoInputs.cache
+D:\Webet333\Code\Webet333.notify.interfaces\obj\Stag\netcoreapp2.1\Webet333.notify.interfaces.AssemblyInfo.cs
+D:\Webet333\Code\Webet333.notify.interfaces\obj\Stag\netcoreapp2.1\Webet333.notify.interfaces.csproj.CoreCompileInputs.cache
+D:\Webet333\Code\Webet333.notify.interfaces\obj\Stag\netcoreapp2.1\Webet333.notify.interfaces.csproj.CopyComplete
+D:\Webet333\Code\Webet333.notify.interfaces\obj\Stag\netcoreapp2.1\Webet333.notify.interfaces.dll
+D:\Webet333\Code\Webet333.notify.interfaces\obj\Stag\netcoreapp2.1\Webet333.notify.interfaces.pdb

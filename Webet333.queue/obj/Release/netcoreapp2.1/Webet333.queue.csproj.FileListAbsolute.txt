@@ -1,0 +1,9 @@
+D:\Webet333\Code\Webet333.queue\bin\Release\netcoreapp2.1\Webet333.queue.deps.json
+D:\Webet333\Code\Webet333.queue\bin\Release\netcoreapp2.1\Webet333.queue.dll
+D:\Webet333\Code\Webet333.queue\bin\Release\netcoreapp2.1\Webet333.queue.pdb
+D:\Webet333\Code\Webet333.queue\obj\Release\netcoreapp2.1\Webet333.queue.csprojAssemblyReference.cache
+D:\Webet333\Code\Webet333.queue\obj\Release\netcoreapp2.1\Webet333.queue.AssemblyInfoInputs.cache
+D:\Webet333\Code\Webet333.queue\obj\Release\netcoreapp2.1\Webet333.queue.AssemblyInfo.cs
+D:\Webet333\Code\Webet333.queue\obj\Release\netcoreapp2.1\Webet333.queue.csproj.CoreCompileInputs.cache
+D:\Webet333\Code\Webet333.queue\obj\Release\netcoreapp2.1\Webet333.queue.dll
+D:\Webet333\Code\Webet333.queue\obj\Release\netcoreapp2.1\Webet333.queue.pdb

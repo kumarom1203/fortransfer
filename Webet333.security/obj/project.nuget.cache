@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QrNVXxZ4E3TDW2uj4GVCtFiF9uS0zmbfBG+54S0RHm1oN8g2PHk/Dfoltbaz+Ir4k6/4JTj1AH7wVBIUs35FNA==",
+  "success": true,
+  "projectFilePath": "D:\\Webet333 Azure\\Code\\Webet333.security\\Webet333.security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raaj\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Raaj\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Raaj\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Raaj\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Raaj\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Raaj\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

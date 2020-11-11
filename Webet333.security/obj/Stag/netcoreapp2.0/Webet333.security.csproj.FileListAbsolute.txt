@@ -1,0 +1,9 @@
+D:\Webet333\Code\Webet333.security\bin\Stag\netcoreapp2.0\Webet333.security.deps.json
+D:\Webet333\Code\Webet333.security\bin\Stag\netcoreapp2.0\Webet333.security.dll
+D:\Webet333\Code\Webet333.security\bin\Stag\netcoreapp2.0\Webet333.security.pdb
+D:\Webet333\Code\Webet333.security\obj\Stag\netcoreapp2.0\Webet333.security.csprojAssemblyReference.cache
+D:\Webet333\Code\Webet333.security\obj\Stag\netcoreapp2.0\Webet333.security.AssemblyInfoInputs.cache
+D:\Webet333\Code\Webet333.security\obj\Stag\netcoreapp2.0\Webet333.security.AssemblyInfo.cs
+D:\Webet333\Code\Webet333.security\obj\Stag\netcoreapp2.0\Webet333.security.csproj.CoreCompileInputs.cache
+D:\Webet333\Code\Webet333.security\obj\Stag\netcoreapp2.0\Webet333.security.dll
+D:\Webet333\Code\Webet333.security\obj\Stag\netcoreapp2.0\Webet333.security.pdb
